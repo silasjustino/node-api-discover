@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi construido para servir de apoio no estudo de consumo de APIs REST
+Esse projeto foi construído para servir de apoio no estudo de consumo de APIs REST
 
 
 
